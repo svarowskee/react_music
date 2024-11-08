@@ -1,0 +1,18 @@
+.header-container {
+  background-color: var(--background-content-color);
+}
+
+.navbar {
+  background-color: var(--background-content-color);
+}
+
+.navbar-brand {
+  display: flex;
+  gap: 16px;
+  max-width: fit-content;
+  cursor: pointer;
+}
+
+.brand-name {
+  font-size: 28px;
+}
