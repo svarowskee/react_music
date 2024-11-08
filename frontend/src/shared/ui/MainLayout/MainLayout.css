@@ -1,0 +1,16 @@
+.main-layout-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 100vh;
+  position: relative;
+}
+
+.container {
+  flex-grow: 1;
+  margin: 20px;
+}
+
+.footer {
+
+}
